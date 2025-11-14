@@ -1,2 +1,2 @@
 # github-demo
-demo poc for git
+demo small poc for git
